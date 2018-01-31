@@ -15,5 +15,5 @@ int main() {                                                // Se define el mét
     scanf("%f", &r);                                        // Busca la introducción de una cadena en consola y la convierte a su tipo correspondiente
     v = ((4 / 3) * pi * (r * r * r));                       // Se realiza una operación aritmética para calcular el volumen de la esfera
     printf("\nEl volumen de la esfera es: %f\n", v);        // Se imprime el resultado de la operación
-    system("pause");                                      // Se termina el programa esperando instrucción del usuario
+    system("pause");                                        // Se termina el programa esperando instrucción del usuario
 }
