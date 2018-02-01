@@ -1,8 +1,8 @@
 /*
- * Hecho por Jorge Alejandro González Guerra
+ * Hecho por Jorge Alejandro Gonzalez Guerra
  * Matricula: 1889169
- * Carrera: Ingeniería en Tecnologías de Software
- * Fecha de Creación: 29/01/2018
+ * Carrera: Ingenieria en Tecnologias de Software
+ * Fecha de Creacion: 1/29/2018
  */
 
 #include <stdio.h>
