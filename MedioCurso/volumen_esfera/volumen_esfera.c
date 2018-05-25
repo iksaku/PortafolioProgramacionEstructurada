@@ -6,7 +6,7 @@
  */
 
 #include <stdio.h>
-#include <windows.h>
+#include <stdlib.h>
 #define pi 3.1416
 
 int main() {

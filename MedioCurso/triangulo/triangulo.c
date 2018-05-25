@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 #include <math.h>
-#include <windows.h>
+#include <stdlib.h>
 #include <stdbool.h>
 #include <ctype.h>
 
