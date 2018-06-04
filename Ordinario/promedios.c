@@ -2,14 +2,13 @@
  * Hecho por Jorge Alejandro Gonzalez Guerra
  * Matricula: 1889169
  * Carrera: Ingenieria en Tecnologias de Software
- * Fecha de Creacion: 4/25/2018
  */
  
- #include <stdio.h>
- #include <stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
  
- int n, num[50];
- float suma = 0, prom = 0;
+int n, num[50];
+float suma = 0, prom = 0;
  
  void entrada()
  {
